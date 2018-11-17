@@ -3,10 +3,16 @@ maxX: -122.3649375	maxY: 37.81997549
 
 max dist
 X: 0.1487046		Y: 0.11209647
-15	by		11	-> 165 attr.
+8	by		6	-> 48 attr. (0.02)
+15	by		12	-> 210 attr. (0.01)
 
 
 partition length
+0.02
 0.01
 0.005
 1block dist ~= 0.0027
+
+
+2003-1 ~ 2015-5	-> 12*12+5 = 149 attr. (months)
+2003-1 ~ 2015-5 -> 4*12+2 = 50 attr. (quarters)
